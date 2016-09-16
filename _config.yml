@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              MEAKknits
+bio:                'Knitting, Spinning, Fiber-Enthusiast'
+description:        "This is where a description will go"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,18 +38,18 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+twitter:            MEAKknits
+#facebook:           username
+#github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          deadlysmurf_knits
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
@@ -59,6 +59,7 @@ steam:              username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+ravelry:            deadlysmurf
 
 # Gems
 gems:
