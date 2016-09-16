@@ -1,37 +1,15 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about]
+date: 2016-09-15
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+My name is Meg, and I’m a fibre addict.
 
-## Preview
+I learned to knit as a kid from my mother and grandmother, and knit on and off though my childhood and teen years.  I really became passionate about fibre-arts when I lived in Nova Scotia for university. I have been branched out since, spending more time spinning yarn and dyeing yarn and fiber but knitting will always be my first love.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I really appreciate the strong and vibrate internet community because my access to yarn, fiber and tools was much more limited on the East Coast so I was fairly reliant on internet reviews for yarn and tools, and for knitting support.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+I am interested in both academic research about knitting, having written my thesis on the the sociology of gender in knitting.  I someday hope to have the opportunity to refresh this work, and give it the time it deserves.
